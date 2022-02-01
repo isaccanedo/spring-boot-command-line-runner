@@ -1,2 +1,2 @@
 # spring-boot-command-line-runner
-:star2: Spring Boot Command Line Runner
+:star2: Executor de linha de comando Spring Boot
